@@ -1,0 +1,4 @@
+
+# ignore .bluej extensions
+
+*.bluej
